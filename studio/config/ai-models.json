@@ -1,0 +1,20 @@
+{
+  "models": [
+    {
+      "id": "gemini-flash",
+      "provider": "gemini",
+      "model": "gemini-3.8-flash",
+      "label": "Gemini 3.8 Flash",
+      "enabled": true,
+      "isDefault": true
+    },
+    {
+      "id": "gpt-4o",
+      "provider": "openai",
+      "model": "gpt-4o",
+      "label": "GPT-4o (예비)",
+      "enabled": false,
+      "isDefault": false
+    }
+  ]
+}
